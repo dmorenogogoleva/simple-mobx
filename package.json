@@ -4,6 +4,7 @@
   "homepage": "./",
   "private": true,
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "^6.6.0",
     "eslint-plugin-react": "^7.21.4",
     "react-scripts": "^3.4.1"

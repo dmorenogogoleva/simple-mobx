@@ -1,1 +1,1 @@
-export { Office } from './office'
+export { OfficePage } from './office'
