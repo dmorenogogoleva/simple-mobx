@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+
+}
+
+html,
+input,
+button {
+  font-family: 'Poppins', sans-serif;
+  font-size: var(--common-font-size);
+}
+
+
+@media (max-width: 768px) {
+
+}
